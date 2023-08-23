@@ -34,3 +34,4 @@ com.showdataapp-debug-32 C:\Users\sarka\OneDrive\Desktop\TechPax\ShowDataApp\and
 com.showdataapp-main-33 C:\Users\sarka\OneDrive\Desktop\TechPax\ShowDataApp\android\app\src\main\res
 com.showdataapp-packaged_res-34 C:\Users\sarka\OneDrive\Desktop\TechPax\ShowDataApp\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
 com.showdataapp-packaged_res-35 C:\Users\sarka\OneDrive\Desktop\TechPax\ShowDataApp\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+com.showdataapp-packaged_res-36 C:\Users\sarka\OneDrive\Desktop\TechPax\ShowDataApp\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug
